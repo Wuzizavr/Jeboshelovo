@@ -1,3 +1,3 @@
-print ("Hello world")
-print ("Hi!")
-print ("How are you doing")
+print ("Hello world;")
+print ("Hi!;")
+print ("How are you doing;")
